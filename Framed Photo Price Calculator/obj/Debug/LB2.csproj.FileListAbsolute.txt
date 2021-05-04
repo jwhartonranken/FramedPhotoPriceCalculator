@@ -1,0 +1,10 @@
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\bin\Debug\LB2.exe.config
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\bin\Debug\LB2.exe
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\bin\Debug\LB2.pdb
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.csprojAssemblyReference.cache
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.Properties.Resources.resources
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.csproj.GenerateResource.cache
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.csproj.CoreCompileInputs.cache
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.exe
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.pdb
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Labs\CH1415Labs\LB2\obj\Debug\LB2.formPhotoshop.resources
